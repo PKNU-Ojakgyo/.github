@@ -2,7 +2,7 @@
   <h1><img src="https://github.com/user-attachments/assets/54d5cba8-1d2c-4cd0-8e77-f4e39f7e74bb" width="50px" style="vertical-align: middle; margin-right: 3px;"> Ojakgyo</h1>
 </div>
 
-<summary><h1>📍 목차</h1></summary>
+<h1>📍 목차</h1>
 
 1. [목차 미완](#1-프로젝트-소개)
 
