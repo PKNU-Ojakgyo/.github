@@ -21,52 +21,91 @@
   - 아두이노 : 스마트락커 비밀번호 시스템 + 락커 내부 카메라로 물품 수령 신뢰도 높이기
 - 📺[시연 영상](https://youtu.be/E0vNq7CH2qM)
 - 📢[발표 자료](링크넣기)
----
+
+
 
 ## 2. 팀원 소개 및 역할
 <table>
   <tr>
-    <td align="center" width="150px">
+    <th align="center">프로필</th>
+    <th align="center">이름</th>
+    <th align="center">역할</th>
+  </tr>
+
+  <tr>
+    <td align="center" width="120px">
       <a href="https://github.com/yoonhyunjin02" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/97629676?v=4"
-        alt="윤현진 프로필" /></a>
+        <img src="https://avatars.githubusercontent.com/u/97629676?v=4" alt="윤현진 프로필" width="100"/>
+      </a>
     </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/yujeongkwon" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/87534067?v=4" alt="권유정 프로필" /></a>
+    <td align="center">
+      <a href="https://github.com/yoonhyunjin02" target="_blank">
+        윤현진 (팀장)
+      </a>
     </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/huchujj" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/106758279?v=4" alt="손성아 프로필" /></a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/o-jeong" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/96658707?v=4"
-        alt="이지정 프로필" /></a>
+    <td>
+      블록체인(설계, 배포), 임베디드(카메라 구현)<br>
+      링크사업단(1·2학기), 각종 발표, 특허출원, README, 총무
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <a href="https://github.com/yoonhyunjin02" target="_blank">윤현진(팀장)</a>
+      <a href="https://github.com/yujeongkwon" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/87534067?v=4" alt="권유정 프로필" width="100"/>
+      </a>
     </td>
     <td align="center">
-      <a href="https://github.com/yujeongkwon" target="_blank">권유정</a>
+      <a href="https://github.com/yujeongkwon" target="_blank">
+        권유정
+      </a>
+    </td>
+    <td>
+      백엔드(설계, 구현), 블록체인(설계, 체인코드)<br>
+      공학혁신지원센터
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/huchujj" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/106758279?v=4" alt="손성아 프로필" width="100"/>
+      </a>
     </td>
     <td align="center">
-      <a href="https://github.com/huchujj" target="_blank">손성아</a>
+      <a href="https://github.com/huchujj" target="_blank">
+        손성아
+      </a>
+    </td>
+    <td>
+      프론트엔드(설계, 구현), 임베디드(설계, 사물함 제작)<br>
+      부경학습동아리
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/o-jeong" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/96658707?v=4" alt="이지정 프로필" width="100"/>
+      </a>
     </td>
     <td align="center">
-      <a href="https://github.com/o-jeong" target="_blank">이지정</a>
+      <a href="https://github.com/o-jeong" target="_blank">
+        이지정
+      </a>
     </td>
+    <td>
+      백엔드(설계), 임베디드(설계, 사물함 제작, 키패드 구현)<br>
+      부경학습동아리
+    </td>
+  </tr>
 </table>
+
+
+## 3. 프로젝트 요약
 
 ### 📆 기간별 작업 요약
 <img src="https://github.com/user-attachments/assets/7f415a5e-e3ad-466a-b1f2-278ca6aeba49" alt="timeline" width="700"/>
-
-### 📆 역할분담
-<img src="https://github.com/user-attachments/assets/05264008-c704-4b61-9fa9-cfe63b2906e8" alt="timeline" width="700"/>
-
-## 3. 프로젝트 요약
     <details>
     <summary>토글 기능</summary>
     <br>
@@ -134,7 +173,6 @@
   <img src="https://img.shields.io/badge/kakaotalk-FFEB00?style=for-the-badge&logo=kakaotalk&logoColor=black">
   <img src="https://img.shields.io/badge/ERD%20Cloud-1DA1F2?style=for-the-badge&logo=icloud&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
-  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
 </div>
 
 ### 🔹 Development Tools
