@@ -7,6 +7,7 @@
 1. [프로젝트 소개](#1-프로젝트-소개)
 2. [팀원 소개 및 역할](#2-팀원-소개-및-역할)
 3. [프로젝트 요약](#3-프로젝트-요약)
+   - [포스터 & 팜플렛](#포스터--팜플렛)  
    - [기간별 작업 요약](#-기간별-작업-요약)
    - [각 분야 Repositories](#-각-분야-repositories)
    - [주요 기능](#-주요-기능)
@@ -112,6 +113,11 @@
 
 ## 3. 프로젝트 요약
 
+### 🎈포스터 & 팜플렛
+<img src="https://github.com/user-attachments/assets/49a3dcb4-6151-43fd-a2aa-d33425ffd39e">
+
+<img src="https://github.com/user-attachments/assets/c287005e-ab8a-4587-b89b-97d8bec69aa0">
+
 ### 📆 기간별 작업 요약
 
 - **23.03.01 ~ 23.06.30 | 1학기**
@@ -139,6 +145,7 @@
 - [**Blockchain Server**](https://github.com/PKNU-Ojakgyo/Ojakgyo_BlockChain_Server)
 
 ### ⭐ 주요 기능
+
 
 ### ⚒️ 시스템 아키텍처
 <img src="https://github.com/user-attachments/assets/792d9123-e265-4c1a-9f19-e770b424e750" width="60%">
