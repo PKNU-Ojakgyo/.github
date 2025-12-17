@@ -45,7 +45,7 @@
     </td>
     <td>
       블록체인(설계, 배포), 임베디드(카메라 구현)<br>
-      링크사업단(1·2학기), 각종 발표, 특허출원, README, 총무
+      링크사업단(1·2학기), 문서화, 발표, 특허출원, README, 총무
     </td>
   </tr>
 
@@ -106,12 +106,12 @@
 
 ### 📆 기간별 작업 요약
 <img src="https://github.com/user-attachments/assets/7f415a5e-e3ad-466a-b1f2-278ca6aeba49" alt="timeline" width="700"/>
-    <details>
-    <summary>토글 기능</summary>
-    <br>
-    안에 내용 적기
-    </details>
-<br>
+
+<details>
+  <summary>토글 기능</summary>
+  <br>
+  안에 내용 적기
+</details>
 
 ## 4. 주요 기능
 
