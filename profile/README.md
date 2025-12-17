@@ -2,9 +2,19 @@
   <img src="https://github.com/user-attachments/assets/8b56e3c6-ec2b-418f-9725-fc81a499b6fc">
 </div>
 
-<h1>📍 목차</h1>
+## 📍 목차
 
-1. [목차 미완](#1-프로젝트-소개)
+1. [프로젝트 소개](#1-프로젝트-소개)
+2. [팀원 소개 및 역할](#2-팀원-소개-및-역할)
+3. [프로젝트 요약](#3-프로젝트-요약)
+   - [기간별 작업 요약](#-기간별-작업-요약)
+   - [각 분야 Repositories](#-각-분야-repositories)
+   - [주요 기능](#-주요-기능)
+   - [시스템 아키텍처](#️-시스템-아키텍처)
+   - [블록체인 네트워크 구성도](#️-블록체인-네트워크-구성도)
+4. [사용 기술 및 도구](#4-사용-기술-및-도구)
+5. [프로젝트 결과(수상/성과)](#5-프로젝트-결과수상성과)
+6. [최종 회고](#6-최종-회고)
 
 
 ## 1. 프로젝트 소개
@@ -18,16 +28,13 @@
 - 🎯 주요 목표
   - 프론트/백 : 사용자가 사용하기 쉬운 크로스 플랫폼 앱 만들기
   - 블록체인 : 중고 거래 시 블록체인 계약서를 작성하여 신뢰도 높이기 
-  - 아두이노 : 스마트락커 비밀번호 시스템 + 락커 내부 카메라로 물품 수령 신뢰도 높이기
+  - 아두이노 : 스마트 락커 비밀번호 시스템 + 락커 내부 카메라로 물품 수령 신뢰도 높이기
 - 📺[시연 영상](https://youtu.be/E0vNq7CH2qM)
-- 📢[발표 자료](링크넣기)
-
-
 
 ## 2. 팀원 소개 및 역할
 <table>
   <tr>
-    <th align="center">프로필</th>
+    <th align="center">ㅤ프로필</th>
     <th align="center">이름</th>
     <th align="center">역할</th>
   </tr>
@@ -40,7 +47,8 @@
     </td>
     <td align="center">
       <a href="https://github.com/yoonhyunjin02" target="_blank">
-        윤현진 (팀장)
+        윤현진<br>
+        (팀장)
       </a>
     </td>
     <td>
@@ -105,19 +113,47 @@
 ## 3. 프로젝트 요약
 
 ### 📆 기간별 작업 요약
-<img src="https://github.com/user-attachments/assets/7f415a5e-e3ad-466a-b1f2-278ca6aeba49" alt="timeline" width="700"/>
 
-<details>
-  <summary>토글 기능</summary>
-  <br>
-  안에 내용 적기
-</details>
+- **23.03.01 ~ 23.06.30 | 1학기**
+  - 프로젝트 기획
+  - 기술 공부 및 설계
 
-## 4. 주요 기능
+- **23.07.01 ~ 23.08.31 | 여름학기**
+  - 프로젝트 구현
+  - 프로젝트 테스트
+  - 한미르 경진대회
 
-### 🚩 
+- **23.08.31 ~ 24.01.31 | 2학기, 겨울학기**
+  - 프로젝트 보완 및 추가 구현
+  - 공학교육혁신센터 마무리
+  - 부경학습동아리 마무리
+  - 링크사업단 마무리
+  - 한국멀티미디어 논문 작성 및 발표
+  - 학과, 단대 캡스톤 경진대회
+  - 특허 출원
 
-## 8. 사용 기술 및 도구
+### 👨‍👩‍👧‍👦 각 분야 Repositories
+- [**Frontend**](https://github.com/PKNU-Ojakgyo/Ojakgyo_Frontend)
+- [**Backend**](https://github.com/PKNU-Ojakgyo/Ojakgyo_Backend)
+- [**Blockchain**](https://github.com/PKNU-Ojakgyo/Ojakgyo_Blockchain)
+- [**Blockchain Server**](https://github.com/PKNU-Ojakgyo/Ojakgyo_BlockChain_Server)
+
+### ⭐ 주요 기능
+
+### ⚒️ 시스템 아키텍처
+<img width="573" height="1345" alt="Image" src="https://github.com/user-attachments/assets/792d9123-e265-4c1a-9f19-e770b424e750" />
+
+- Flutter 기반 클라이언트(App)
+- Spring Boot 백엔드 서버
+- Hyperledger Fabric 프라이빗 블록체인 네트워크
+- Arduino 기반 스마트 락커(카메라, 키패드)
+- 클라우드 인프라(AWS EC2 / Naver Cloud)
+
+### ⛓️ 블록체인 네트워크 구성도
+  <img width="1368" height="500" alt="Image" src="https://github.com/user-attachments/assets/90430d57-9a6f-4566-8471-c834fa7bdcc6" />
+
+
+## 4. 사용 기술 및 도구
 
 ### 🔹 Frontend
 
@@ -182,17 +218,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-## 🏆 프로젝트 결과(수상/성과)
+## 5. 프로젝트 결과(수상/성과)
 링크를 통해 상장 원본을 확일 할 수 있습니다.
 - 🥇 **[2023학년도 컴퓨터·인공지능공학부 캡스톤디자인 경진대회 대상](https://drive.google.com/file/d/1PnfrMCvQCdQKSjz1zAOlP1FNKwAwbgZt/view?usp=sharing)** *23/11/22* 부경대학교 컴퓨터인공지능공학부장상
 - 🥈 **[2023학년도 정보융합대학 융합캡스톤디자인 경진대회 최우수상](https://drive.google.com/file/d/1nlSI_mrvPc0hDIFHeG0EgV24XB6DYfvT/view?usp=sharing)** *23/12/07* 국립부경대학교 정보융합대학장상
 - 🥇 **[2023 한국멀티미디어학회 추계학술발표대회 우수논문상](https://drive.google.com/file/d/1wysre0avJ8C4X7yyk0zDlJoYpdVwpr4x/view?usp=sharing)** *23/11/17* 한국멀티미디어학회 학회장상
 - 🥉 **[2023 한미르 캡스톤 디자인 경진대회 장려상](https://drive.google.com/file/d/1oiMoBCEQzQYztCKfnD7FvdrMyTPk8rlZ/view?usp=sharing)** *23/09/25* 부경대학교 공과대학 공학교육혁신센터장상
 - 🥈 **[2023학년도 부경학습동아리 우수성과팀 최우수상](https://drive.google.com/file/d/1H8OEdUPpfhHhpT5HvpkvPvuqpI8Quuyx/view?usp=sharing)** *24/02/14* 국립부경대학교 교수학습지원센터장상
+- 특허 출원
+<img width="700" height="200" alt="Image" src="https://github.com/user-attachments/assets/d79895bc-82c4-47d7-8944-49ac0ccc87d3" />
 
-
-
-## 9. 최종 회고
+## 6. 최종 회고
 - 💚 윤현진<br>
 
     프로젝트를 시작했을 때는 '이게 우리가 할 수 있는 일일까?'라는 의문이 머릿속을 맴돌았습니다. 그러나 1년이라는 시간이 흘러 현재, 프로젝트를 완수한 성취감으로 만족스럽습니다.
