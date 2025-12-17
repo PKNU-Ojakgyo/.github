@@ -80,44 +80,68 @@
 
 ## 8. 사용 기술 및 도구
 
-### 🔹 협업
+### 🔹 Frontend
+
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://github.com/yoonhyunjin02/youtube-clone-frontend" target="_blank">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-
-### 🔹 개발 도구
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</div>
-
-### 🔹 커뮤니케이션
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://chain-winter-af2.notion.site/1dc2233de693802780c2d36dd66faaa1?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/notion-FEFEFE?style=for-the-badge&logo=notion&logoColor=black">
-  </a>
-  <img src="https://img.shields.io/badge/kakaotalk-FFEB00?style=for-the-badge&logo=kakaotalk&logoColor=black">
-</div>
-
-
-### 🔹 개발 언어
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
+
+### 🔹 Backend
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
- <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-</div>
+
+### 🔹 Blockchain
+
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
- <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
- <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+</div>
+
+### 🔹 Arduino
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
+
+### 🔹 Database
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+### 🔹 Infrastructure / Deployment
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+</div>
+
+### 🔹 Collaboration
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
+### 🔹 Communication
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/notion-FEFEFE?style=for-the-badge&logo=notion&logoColor=black">
+  <img src="https://img.shields.io/badge/kakaotalk-FFEB00?style=for-the-badge&logo=kakaotalk&logoColor=black">
+  <img src="https://img.shields.io/badge/ERD%20Cloud-1DA1F2?style=for-the-badge&logo=icloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
+</div>
+
+### 🔹 Development Tools
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
 ## 🏆 프로젝트 결과(수상/성과)
