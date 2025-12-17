@@ -226,7 +226,8 @@
 - 🥉 **[2023 한미르 캡스톤 디자인 경진대회 장려상](https://drive.google.com/file/d/1oiMoBCEQzQYztCKfnD7FvdrMyTPk8rlZ/view?usp=sharing)** *23/09/25* 부경대학교 공과대학 공학교육혁신센터장상
 - 🥈 **[2023학년도 부경학습동아리 우수성과팀 최우수상](https://drive.google.com/file/d/1H8OEdUPpfhHhpT5HvpkvPvuqpI8Quuyx/view?usp=sharing)** *24/02/14* 국립부경대학교 교수학습지원센터장상
 - 특허 출원
-<img width="700" height="200" alt="Image" src="https://github.com/user-attachments/assets/d79895bc-82c4-47d7-8944-49ac0ccc87d3" />
+
+  <img src="https://github.com/user-attachments/assets/d79895bc-82c4-47d7-8944-49ac0ccc87d3" width="65%">
 
 ## 6. 최종 회고
 - 💚 윤현진<br>
