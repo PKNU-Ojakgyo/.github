@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://github.com/user-attachments/assets/54d5cba8-1d2c-4cd0-8e77-f4e39f7e74bb" width="50px" style="vertical-align: middle; margin-right: 3px;"> Ojakgyo</h1>
+  <img src="https://github.com/user-attachments/assets/8b56e3c6-ec2b-418f-9725-fc81a499b6fc">
 </div>
 
 <h1>📍 목차</h1>
