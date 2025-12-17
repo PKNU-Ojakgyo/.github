@@ -141,7 +141,7 @@
 ### ⭐ 주요 기능
 
 ### ⚒️ 시스템 아키텍처
-<img width="573" height="1345" alt="Image" src="https://github.com/user-attachments/assets/792d9123-e265-4c1a-9f19-e770b424e750" />
+<img src="https://github.com/user-attachments/assets/792d9123-e265-4c1a-9f19-e770b424e750" width="60%">
 
 - Flutter 기반 클라이언트(App)
 - Spring Boot 백엔드 서버
@@ -150,7 +150,7 @@
 - 클라우드 인프라(AWS EC2 / Naver Cloud)
 
 ### ⛓️ 블록체인 네트워크 구성도
-  <img width="1368" height="500" alt="Image" src="https://github.com/user-attachments/assets/90430d57-9a6f-4566-8471-c834fa7bdcc6" />
+<img src="https://github.com/user-attachments/assets/90430d57-9a6f-4566-8471-c834fa7bdcc6" width="70%">
 
 
 ## 4. 사용 기술 및 도구
