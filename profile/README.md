@@ -74,32 +74,9 @@
     </details>
 <br>
 
-## 4. 페이지 주요 기능
+## 4. 주요 기능
 
 ### 🚩 
-
-
-## 6. 프로젝트 구조
-### 📂 디렉토리 구조
-
-```
-나중에 추가
-```
-
-## 7. 브랜치 전략 및 컨벤션
-
-### 🔹 브랜치 전략
-  
-
-
-### 🔸 폴더, 파일 네이밍 컨벤션
-  
-
-### 🔸 커밋 컨벤션
-  <img src="https://github.com/user-attachments/assets/2eb3dbac-b165-4ff2-aa6c-5cbffe265b53" alt="comment" width="400"/>
-
-### 🔸 이슈 컨벤션
-  <img src="https://github.com/user-attachments/assets/649494e2-4b67-4323-ad9e-050ffeb7822f" alt="issue" width="400"/>
 
 ## 8. 사용 기술 및 도구
 
@@ -143,7 +120,7 @@
  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
-## 🏆 수상내역
+## 🏆 프로젝트 결과(수상/성과)
 링크를 통해 상장 원본을 확일 할 수 있습니다.
 - 🥇 **[2023학년도 컴퓨터·인공지능공학부 캡스톤디자인 경진대회 대상](https://drive.google.com/file/d/1PnfrMCvQCdQKSjz1zAOlP1FNKwAwbgZt/view?usp=sharing)** *23/11/22* 부경대학교 컴퓨터인공지능공학부장상
 - 🥈 **[2023학년도 정보융합대학 융합캡스톤디자인 경진대회 최우수상](https://drive.google.com/file/d/1nlSI_mrvPc0hDIFHeG0EgV24XB6DYfvT/view?usp=sharing)** *23/12/07* 국립부경대학교 정보융합대학장상
