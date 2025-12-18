@@ -163,8 +163,7 @@
       <img src="https://github.com/user-attachments/assets/27804338-31f3-4156-8cec-2e55c0021c91">
 
     - 사물함 내부 키패드 및 카메라<br>
-      <img src="https://github.com/user-attachments/assets/a64f7549-43ae-4478-89a0-5d8ec902687e" width="30%">
-      <img src="https://github.com/user-attachments/assets/41c1b37e-e2d5-4b58-adbe-6cef84e4d919" width="35%">
+      <img src="https://github.com/user-attachments/assets/49930db8-be90-4404-ae0d-0af7f53553d6" width="70%">
 
   - 소프트웨어
     - 키패드
