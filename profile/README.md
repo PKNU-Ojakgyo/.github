@@ -3,24 +3,24 @@
 </div>
 
 ## 📍 목차
-
 1. [프로젝트 소개](#1-프로젝트-소개)
-2. [팀원 소개 및 역할](#2-팀원-소개-및-역할)
-3. [프로젝트 요약](#3-프로젝트-요약)
-   - [포스터 & 팜플렛](#포스터--팜플렛)  
+2. [프로젝트 한 눈에 보기](#2-프로젝트-한-눈에-보기)
+3. [팀원 소개 및 역할](#3-팀원-소개-및-역할)
+4. [프로젝트 요약](#4-프로젝트-요약)
    - [기간별 작업 요약](#-기간별-작업-요약)
    - [각 분야 Repositories](#-각-분야-repositories)
    - [주요 기능](#-주요-기능)
-   - [시스템 아키텍처](#️-시스템-아키텍처)
-   - [블록체인 네트워크 구성도](#️-블록체인-네트워크-구성도)
-4. [사용 기술 및 도구](#4-사용-기술-및-도구)
-5. [프로젝트 결과(수상/성과)](#5-프로젝트-결과수상성과)
-6. [최종 회고](#6-최종-회고)
+   - [시스템 아키텍처](#-시스템-아키텍처)
+   - [블록체인 네트워크 구성도](#-블록체인-네트워크-구성도)
+   - [유저 플로우](#-유저-플로우)
+5. [사용 기술 및 도구](#5-사용-기술-및-도구)
+6. [프로젝트 결과(수상/성과)](#6-프로젝트-결과수상성과)
+7. [최종 회고](#7-최종-회고)
 
 
 ## 1. 프로젝트 소개
 
-#### [부경대학교 컴퓨터공학과 21학번 - 캡스톤디자인 프로젝트]
+#### [국립부경대학교 컴퓨터공학과 21학번 - 캡스톤디자인 프로젝트]
 
 > TTT(Trust Trade Triumph)<br>
 > 중고거래의 거래 신뢰/증빙 부족 문제를 스마트락커 + 프라이빗 블록체인(Hyperledger Fabric)으로 해결한 중계 서비스
@@ -33,7 +33,19 @@
 - **📺[시연 영상]**(https://youtu.be/E0vNq7CH2qM)
 - **📢[발표 영상]**(https://youtu.be/kHqSl9hdGr0)
 
-## 2. 팀원 소개 및 역할
+## 2. 프로젝트 한 눈에 보기
+
+<details>
+  <summary>포스터</summary>
+  <img src="https://github.com/user-attachments/assets/49a3dcb4-6151-43fd-a2aa-d33425ffd39e">
+</details>
+
+<details>
+  <summary>팜플렛</summary>
+  <img src="https://github.com/user-attachments/assets/c287005e-ab8a-4587-b89b-97d8bec69aa0">
+</details>
+
+## 3. 팀원 소개 및 역할
 <table>
   <tr>
     <th align="center">ㅤ프로필</th>
@@ -112,12 +124,7 @@
 </table>
 
 
-## 3. 프로젝트 요약
-
-### 🎈포스터 & 팜플렛
-<img src="https://github.com/user-attachments/assets/49a3dcb4-6151-43fd-a2aa-d33425ffd39e">
-
-<img src="https://github.com/user-attachments/assets/c287005e-ab8a-4587-b89b-97d8bec69aa0">
+## 4. 프로젝트 요약
 
 ### 📆 기간별 작업 요약
 
@@ -126,16 +133,13 @@
   - 기술 공부 및 설계
 
 - **23.07.01 ~ 23.08.31 | 여름학기**
-  - 프로젝트 구현
-  - 프로젝트 테스트
+  - 프로젝트 구현 및 테스트
   - 한미르 경진대회
 
 - **23.08.31 ~ 24.01.31 | 2학기, 겨울학기**
   - 프로젝트 보완 및 추가 구현
-  - 공학교육혁신센터 마무리
-  - 부경학습동아리 마무리
-  - 링크사업단 마무리
-  - 한국멀티미디어 논문 작성 및 발표
+  - 공학교육혁신센터, 부경학습동아리, 링크사업단 마무리
+  - 한국멀티미디어학회 논문 작성 및 발표
   - 학과, 단대 캡스톤 경진대회
   - 특허 출원
 
@@ -167,8 +171,10 @@
 ### ⛓️ 블록체인 네트워크 구성도
 <img src="https://github.com/user-attachments/assets/90430d57-9a6f-4566-8471-c834fa7bdcc6" width="70%">
 
+### 🛶 유저 플로우
+<img src="https://github.com/user-attachments/assets/819c86b5-687a-43b9-b475-126f1a6b5790">
 
-## 4. 사용 기술 및 도구
+## 5. 사용 기술 및 도구
 
 ### 🔹 Frontend
 
@@ -235,7 +241,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-## 5. 프로젝트 결과(수상/성과)
+## 6. 프로젝트 결과(수상/성과)
 링크를 통해 상장 원본을 확일 할 수 있습니다.
 - 🥇 **[2023학년도 컴퓨터·인공지능공학부 캡스톤디자인 경진대회 대상](https://drive.google.com/file/d/1PnfrMCvQCdQKSjz1zAOlP1FNKwAwbgZt/view?usp=sharing)** *23/11/22* 부경대학교 컴퓨터인공지능공학부장상
 - 🥈 **[2023학년도 정보융합대학 융합캡스톤디자인 경진대회 최우수상](https://drive.google.com/file/d/1nlSI_mrvPc0hDIFHeG0EgV24XB6DYfvT/view?usp=sharing)** *23/12/07* 국립부경대학교 정보융합대학장상
@@ -246,7 +252,7 @@
 
   <img src="https://github.com/user-attachments/assets/d79895bc-82c4-47d7-8944-49ac0ccc87d3" width="65%">
 
-## 6. 최종 회고
+## 7. 최종 회고
 <details>
   <summary>💚 윤현진</summary>
   프로젝트를 시작했을 때는 '이게 우리가 할 수 있는 일일까?'라는 의문이 머릿속을 맴돌았습니다. 그러나 1년이라는 시간이 흘러 현재, 프로젝트를 완수한 성취감으로 만족스럽습니다.
