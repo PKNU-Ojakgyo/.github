@@ -29,7 +29,7 @@
 - 🎯 주요 목표
   - 프론트/백 : 사용자가 사용하기 쉬운 크로스 플랫폼 앱 만들기
   - 블록체인 : 중고 거래 시 블록체인 계약서를 작성하여 신뢰도 높이기 
-  - 아두이노 : 스마트 락커 비밀번호 시스템 + 락커 내부 카메라로 물품 수령 신뢰도 높이기
+  - 임베디드 : 스마트 락커 비밀번호 시스템 + 락커 내부 카메라로 물품 수령 신뢰도 높이기
 - 📺[시연 영상](https://youtu.be/E0vNq7CH2qM)
 
 ## 2. 팀원 소개 및 역할
@@ -145,6 +145,7 @@
 - [**Blockchain Server**](https://github.com/PKNU-Ojakgyo/Ojakgyo_BlockChain_Server)
 
 ### ⭐ 주요 기능
+- 
 
 
 ### ⚒️ 시스템 아키텍처
@@ -182,19 +183,20 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
-### 🔹 Arduino
+### 🔹 Embedded
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </div>
 
 ### 🔹 Database
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </div>
 
 ### 🔹 Infrastructure / Deployment
@@ -222,6 +224,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
