@@ -25,12 +25,13 @@
 > TTT(Trust Trade Triumph)<br>
 > 중고거래의 거래 신뢰/증빙 부족 문제를 스마트락커 + 프라이빗 블록체인(Hyperledger Fabric)으로 해결한 중계 서비스
 
-- 📅 진행 기간: 2023년 2월 9일 ~ 2024년 1월 31일
-- 🎯 주요 목표
+- 📅 **진행 기간**: 2023년 2월 9일 ~ 2024년 1월 31일
+- 🎯 **주요 목표 요약**
   - 프론트/백 : 사용자가 사용하기 쉬운 크로스 플랫폼 앱 만들기
   - 블록체인 : 중고 거래 시 블록체인 계약서를 작성하여 신뢰도 높이기 
   - 임베디드 : 스마트 락커 비밀번호 시스템 + 락커 내부 카메라로 물품 수령 신뢰도 높이기
-- 📺[시연 영상](https://youtu.be/E0vNq7CH2qM)
+- **📺[시연 영상]**(https://youtu.be/E0vNq7CH2qM)
+- **📢[발표 영상]**(https://youtu.be/kHqSl9hdGr0)
 
 ## 2. 팀원 소개 및 역할
 <table>
@@ -145,8 +146,14 @@
 - [**Blockchain Server**](https://github.com/PKNU-Ojakgyo/Ojakgyo_BlockChain_Server)
 
 ### ⭐ 주요 기능
-- 
+- **DApp**
+  > 🎯 사용자가 사용하기 쉬운 크로스 플랫폼 앱 만들기
 
+- **Blockchain**
+  > 🎯 중고 거래 시 블록체인 계약서를 작성하여 신뢰도 높이기
+
+- **Embedded**
+  > 🎯 스마트 락커 비밀번호 시스템 + 락커 내부 카메라로 물품 수령 신뢰도 높이기
 
 ### ⚒️ 시스템 아키텍처
 <img src="https://github.com/user-attachments/assets/792d9123-e265-4c1a-9f19-e770b424e750" width="60%">
