@@ -152,9 +152,60 @@
 ### ⭐ 주요 기능
 - **DApp**
   > 🎯 사용자가 사용하기 쉬운 크로스 플랫폼 앱 만들기
+  <details>
+  <summary>메인 탭</summary>
+    <img src="https://github.com/user-attachments/assets/c2ffcd33-9595-48a3-88d7-6ca364dbc9a1">
+    <br>
+    - 로그인/회원가입<br>
+    - 아이디 찾기/ 비밀번호 찾기 및 변경<br>
+    - 거래 목록을 볼 수 있는 메인 탭<br>
+  </details>
+  <br>
+  <details>
+  <summary>거래 탭</summary>
+    <img src="https://github.com/user-attachments/assets/12c2e2ad-3bb5-4285-9caa-f721cbcc0542">
+    <br>
+    - 거래 등록<br>
+    - 간이계약서 작성<br>
+    - 입금 상태와 물품 보관 상태에 따라 변경되는 락커 비밀번호<br>
+    - 거래 파기
+  </details>
+  <br>
+  <details>
+  <summary>마이페이지 탭</summary>
+    <img src="https://github.com/user-attachments/assets/e07218b9-07f8-4cea-ac27-e43494f9a015">
+    <br>
+    - 내 정보 보기<br>
+    - 회원정보 수정<br>
+    - 간이계약서 모아보기 → pdf로 출력<br>
+    - 탈퇴
+  </details>
+  <br>
+  <details>
+  <summary>도움말 탭</summary>
+    <img src="https://github.com/user-attachments/assets/8d965254-c0d4-418f-aec6-eee556bd3e67" width="50%">
+    <br>
+    - 도움말 페이지<br>
+    - 문의 작성 및 내역<br>
+  </details>
+
+  <br>
 
 - **Blockchain**
   > 🎯 중고 거래 시 블록체인 계약서를 작성하여 신뢰도 높이기
+  - Go 언어로 체인 코드 작성
+    - InitLedger : 초기함수
+    - CreateAsset : 간이계약서 생성
+    - ReadAsset : 간이계약서 읽기
+    - DeleteAsset : 간이계약서 삭제
+    - DealContractExists : 간이계약서 확인
+  <br><br>
+  - VirtualBox로 가상머신을 생성 후 CDS 패키징 → 네이버 클라우드 배포<br>
+    앱에서 간이계약서를 작성하면 아래 사진에서 보이는 것처럼 계약서 내용이 넘어옴<br>
+    <img src="https://github.com/user-attachments/assets/c6fbcde2-5803-49cd-ae71-03547780ceb0" width="50%"><br>
+    프라이빗 블록체인으로, 거래자 외 타인이 볼 수 없으며, 분산 장부로 안전하게 저장됨
+
+  <br><br>
 
 - **Embedded**
   > 🎯 스마트 락커 비밀번호 시스템 + 락커 내부 카메라로 물품 수령 신뢰도 높이기
@@ -166,13 +217,13 @@
       <img src="https://github.com/user-attachments/assets/49930db8-be90-4404-ae0d-0af7f53553d6" width="70%">
 
   - 소프트웨어
-    - 키패드
+    - 키패드<br>
       스마트락커와 서버의 무선 통신은 Wi-Fi 모듈을 내장한 ESP8266-01에 의해 이뤄짐.<br>
       스마트락커의 서버 통신에 따른 개폐 방식은 다음과 같다.<br>
       스마트락커에 내장된 아두이노는 키패드로 입력된 비밀번호와 함께 서버에 비밀번호 검증 API를 요청한다.<br>
       서버는 저장된 실제 비밀번호와 일치하는지 검증하고 그 결과를 아두이노에 bool 형태로 REST API 응답을 한다.<br>
       검증에 성공(True)하면 락커의 모터가 회전하여 잠금을 해제할 수 있고, 실패(False)하면 잠금이 해제되지 않는다. <br><br>
-    - 카메라
+    - 카메라<br>
       ESP32 – cam 모듈을 사용하여 카메라 내부 CCTV를 만듦.<br>
       esp 연결을 한 후 앱에서 버튼을 클릭하면 url 주소 이동하여 카메라 화면을 볼 수 있다.
 
@@ -226,6 +277,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysqlworkbench&logoColor=white">
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </div>
 
@@ -255,6 +307,7 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge&logo=tinkercad&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
