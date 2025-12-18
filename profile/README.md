@@ -158,6 +158,24 @@
 
 - **Embedded**
   > 🎯 스마트 락커 비밀번호 시스템 + 락커 내부 카메라로 물품 수령 신뢰도 높이기
+  - 하드웨어
+    - 사물함 설계 및 구현
+      <img src="https://github.com/user-attachments/assets/27804338-31f3-4156-8cec-2e55c0021c91">
+
+    - 사물함 내부 키패드 및 카메라<br>
+      <img src="https://github.com/user-attachments/assets/a64f7549-43ae-4478-89a0-5d8ec902687e" width="30%">
+      <img src="https://github.com/user-attachments/assets/41c1b37e-e2d5-4b58-adbe-6cef84e4d919" width="35%">
+
+  - 소프트웨어
+    - 키패드
+      스마트락커와 서버의 무선 통신은 Wi-Fi 모듈을 내장한 ESP8266-01에 의해 이뤄짐.<br>
+      스마트락커의 서버 통신에 따른 개폐 방식은 다음과 같다.<br>
+      스마트락커에 내장된 아두이노는 키패드로 입력된 비밀번호와 함께 서버에 비밀번호 검증 API를 요청한다.<br>
+      서버는 저장된 실제 비밀번호와 일치하는지 검증하고 그 결과를 아두이노에 bool 형태로 REST API 응답을 한다.<br>
+      검증에 성공(True)하면 락커의 모터가 회전하여 잠금을 해제할 수 있고, 실패(False)하면 잠금이 해제되지 않는다. <br><br>
+    - 카메라
+      ESP32 – cam 모듈을 사용하여 카메라 내부 CCTV를 만듦.<br>
+      esp 연결을 한 후 앱에서 버튼을 클릭하면 url 주소 이동하여 카메라 화면을 볼 수 있다.
 
 ### ⚒️ 시스템 아키텍처
 <img src="https://github.com/user-attachments/assets/792d9123-e265-4c1a-9f19-e770b424e750" width="60%">
@@ -242,7 +260,7 @@
 </div>
 
 ## 6. 프로젝트 결과(수상/성과)
-링크를 통해 상장 원본을 확일 할 수 있습니다.
+> 링크를 통해 상장 원본을 확인 할 수 있습니다.
 - 🥇 **[2023학년도 컴퓨터·인공지능공학부 캡스톤디자인 경진대회 대상](https://drive.google.com/file/d/1PnfrMCvQCdQKSjz1zAOlP1FNKwAwbgZt/view?usp=sharing)** *23/11/22* 부경대학교 컴퓨터인공지능공학부장상
 - 🥈 **[2023학년도 정보융합대학 융합캡스톤디자인 경진대회 최우수상](https://drive.google.com/file/d/1nlSI_mrvPc0hDIFHeG0EgV24XB6DYfvT/view?usp=sharing)** *23/12/07* 국립부경대학교 정보융합대학장상
 - 🥇 **[2023 한국멀티미디어학회 추계학술발표대회 우수논문상](https://drive.google.com/file/d/1wysre0avJ8C4X7yyk0zDlJoYpdVwpr4x/view?usp=sharing)** *23/11/17* 한국멀티미디어학회 학회장상
